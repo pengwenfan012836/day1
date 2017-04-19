@@ -1,25 +1,6 @@
 #! D:/table/python3/python
 import time
-# 所有员工的信息
-# info = {
-#     1: {
-#
-#         'name': '江涛',
-#         'sakary': 200,
-#         "email": '123456789@qq.com'
-#     },
-#     2: {
-#         'name': '陈盼',
-#         'sakary': 3000,
-#         "email": '1240191963@qq.com'
-#
-#     },
-#     3: {
-#         'name': '耿枫',
-#         'sakary': 5000,
-#         "email": '15623785996qq.com'
-#     }
-# }
+
 # 模糊查询
 a = 1
 while a > 0:
