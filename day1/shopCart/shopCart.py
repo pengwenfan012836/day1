@@ -1,6 +1,7 @@
 #! D:/table/python3/python
 
 # 所有产品的信息
+# 下面使用的是python3的语法
 import time
 info = {
     1: {
